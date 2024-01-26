@@ -32,6 +32,21 @@
         "projectId": "ab3a431e-51b7-463b-a64a-a9b10fbd3d3c"
       }
     },
-    "owner": "amansingh333"
+    "owner": "amansingh333",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ab3a431e-51b7-463b-a64a-a9b10fbd3d3c"
+    },
+    "plugins": [
+      "expo-font",
+      {
+        "fonts": [
+          "./assets/fonts/SingleDat-Regular.ttf",
+          ".assets/fonts/RubikGlitchPop-Regular.ttf"
+        ]
+      }
+    ]
   }
 }
